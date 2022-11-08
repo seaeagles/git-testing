@@ -5,3 +5,6 @@
 'git clone'
 'git status'
 'git add .'
+'git commit -m "add comment"'
+'git push'
+'test'
